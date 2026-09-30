@@ -1,4 +1,4 @@
-# MineWatch
+# MinePulse 
 
 ### Low-Cost Real-Time Mine Subsidence Monitoring and Early Warning System
 
@@ -12,7 +12,7 @@
 
 ## 1. Overview
 
-MineWatch is a distributed monitoring system for detecting and tracking ground deformation associated with underground coal mining.
+MinePulse is a distributed monitoring system for detecting and tracking ground deformation associated with underground coal mining.
 
 The system uses low-cost sensor nodes installed across the surface above and around underground mine panels. Each node measures physical parameters such as:
 
