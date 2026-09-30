@@ -4,6 +4,10 @@
 
 **Smart India Hackathon 2026 — SIH26025**
 
+### 🌐 Live Dashboard
+
+**https://statuesque-sundae-c7f002.netlify.app/**
+
 ---
 
 ## 1. Overview
@@ -419,7 +423,11 @@ The monitoring interface provides a geographic representation of the monitored a
 * Risk regions
 * Subsidence trends
 
-The GIS layer allows operators to relate sensor measurements to their physical location.
+### Live Dashboard
+
+The project's live dashboard is available at:
+
+**https://statuesque-sundae-c7f002.netlify.app/**
 
 ---
 
